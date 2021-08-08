@@ -1,0 +1,9 @@
+basepath:./
+chrm:1
+query_root:tutorial_data/asw_four
+ref_root:tutorial_data/merged_ref
+poplist:poplist.txt
+ancestrylist:ancestrylist.txt
+output_tag:_asw_rfprobs
+admixedanc: False
+windows: 0.2

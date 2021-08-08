@@ -1,0 +1,19 @@
+Giddyup
+Reading files
+Number of processors available: 12
+Minimum node size: 1
+Number of SNPs Read: 200000
+Number of SNPs to Exclude: 0
+Number left after pruning: 200000
+Number of windows: 1423
+Creating phasings
+Done creating phasings
+Growing forests
+Applying Conditional Random Fields
+CRF on individual: 0
+CRF on individual: 1
+Converting Window Calls to SNP Calls and Writing to File
+Cleaning up
+Checking input...
+Done checking input
+./PopPhased/RFMix_PopPhased -a data/alleles1_asw_rfprobs.txt -p data/classes1_asw_rfprobs.txt -m data/markerLocations1_asw_rfprobs.txt -fb 1 -w 0.2 -o outputPopPhased1_asw_rfprobs
